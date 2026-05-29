@@ -10,7 +10,7 @@
   
   <br />
 
-  <a href="https://team-portfolio-git-main-atakula-pranav-reddys-projects.vercel.app/" target="_blank">
+  <a href="https://team-portfolio-rust-three.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/LIVE_PREVIEW-Visit_Website-10B981?style=for-the-badge&logo=vercel&logoColor=10B981&labelColor=000000&color=000000" alt="Portfolio">
   </a>
 
