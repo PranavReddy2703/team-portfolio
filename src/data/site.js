@@ -62,6 +62,7 @@ export const team = [
     links: {
       portfolio: 'https://pranavreddy2703.github.io/my-portfolio/',
       github: 'https://github.com/pranavreddy2703',
+      linkedin: 'https://www.linkedin.com/in/pranav-reddy-atakula-278430268/',
       email: 'atakulapranav.official@gmail.com',
     },
   },
@@ -124,6 +125,8 @@ export const team = [
       'Business Analytics Platform',
     ],
     links: {
+      portfolio: 'https://lokeshwarsura.github.io/Lokeshwar-s-portfolio/',
+      github: 'https://github.com/lokeshwarsura',
       email: 'lokeshwarsura@gmail.com',
     },
   },
