@@ -1,11 +1,6 @@
 import { FiGithub, FiLinkedin, FiMail, FiArrowUp } from 'react-icons/fi'
+import { brand,navLinks} from '../data/site'
 import { Logo } from './ui/Logo'
-
-const SOCIALS = [
-  { Icon: FiGithub, href: socials.github, label: 'GitHub' },
-  { Icon: FiLinkedin, href: socials.linkedin, label: 'LinkedIn' },
-  { Icon: FiMail, href: `mailto:${socials.email}`, label: 'Email' },
-]
 
 export function Footer() {
   return (
